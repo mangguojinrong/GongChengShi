@@ -1,3 +1,4 @@
-dependencies: /Users/apple/Desktop/mac/Mac/Manger/Manger/ViewController.m \
-  /Users/apple/Desktop/mac/Mac/Manger/Manger/ViewController.h \
-  /Users/apple/Desktop/mac/Mac/Manger/Manger/WaterFlowLayout.h
+dependencies: \
+  /Users/apple/Desktop/gcs/GongChengShi/Manger/Manger/Controllers/ViewController.m \
+  /Users/apple/Desktop/gcs/GongChengShi/Manger/Manger/Controllers/ViewController.h \
+  /Users/apple/Desktop/gcs/GongChengShi/Manger/Manger/Views/WaterFlowLayout.h

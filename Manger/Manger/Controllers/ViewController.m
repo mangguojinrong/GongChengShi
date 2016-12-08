@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 #import "WaterFlowLayout.h"
-
 @interface ViewController ()<UICollectionViewDataSource,UICollectionViewDelegate,WaterFlowLayoutDelegate>
 
 @end
@@ -65,6 +64,11 @@ static NSString *const CellIdentifer = @"Cell";
     return cell;
 }
 
+- (void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath {
+    
+    
+}
+
 #pragma mark - water
 
 - (CGFloat)waterFlowLayout:(WaterFlowLayout *)layout heightForItenAtIndex:(NSInteger)index itemWidth:(CGFloat)itemWidth {
@@ -80,7 +84,7 @@ static NSString *const CellIdentifer = @"Cell";
 }
 
 - (CGFloat)waterFlowLayoutColumnSpacing:(WaterFlowLayout *)layout {
-    return 5;
+    return 4;
 }
 
 - (CGFloat)waterFlowLayoutRowSpacing:(WaterFlowLayout *)layout {

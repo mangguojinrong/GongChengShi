@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/apple/Desktop/mac/Mac/Manger/Manger/WaterFlowLayout.m \
-  /Users/apple/Desktop/mac/Mac/Manger/Manger/WaterFlowLayout.h
+  /Users/apple/Desktop/gcs/GongChengShi/Manger/Manger/Views/WaterFlowLayout.m \
+  /Users/apple/Desktop/gcs/GongChengShi/Manger/Manger/Views/WaterFlowLayout.h
